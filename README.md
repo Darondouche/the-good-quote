@@ -1,4 +1,4 @@
-"The Good Quote"
+***The Good Quote***
 
 This project was built by 3 web developers in training at Ada tech school. We had to create a chrome extension and were free to do anything we wanted. Sky was the limit.
 
