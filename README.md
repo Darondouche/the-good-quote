@@ -1,5 +1,14 @@
 ***The Good Quote***
 
+:school_satchel: School Project
+
+:martial_arts_uniform: 3 teammates
+
+:checkered_flag: 3 months since the beginning of the cursus at Ada Tech School
+
+:calendar: seven days of work
+
+
 This project was built by 3 web developers in training at Ada tech school. We had to create a chrome extension and were free to do anything we wanted. Sky was the limit.
 
 Our first goal was to build an ad blocker that would work on any website. 🎯 We quickly realised that this was very ambitious and maybe a bit out of our reach.
